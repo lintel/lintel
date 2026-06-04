@@ -62,17 +62,5 @@ I am a senior technical engineer with **15+ years of experience in OpenWrt & Lin
   * **Role:** Code Contributor
   * **Intro:** Participated in the development of the first open-source NAS project initiated by enthusiasts in China (based on Marvell 88F8281), and successfully ported OpenWrt mainline support for 88F8281, RDC288X/3210, and other SoCs.
 
----
-
-### 💼 Work Experience
-
-- **Engineering Manager** @ Shanghai Oray Information Technology Co., Ltd. - Shenzhen R&D Center (2022 - Present)
-- **R&D Manager** @ Zioncom Electronics (Shenzhen) Ltd. - Xixiang R&D Center (2019 - 2022)
-- **Firmware Architect & R&D Manager** @ Chengdu Diting Technology (Newifi) - Shenzhen Branch (2014 - 2018)
-- **Co-founder** @ Shenzhen Kuailianxun Technology (2013 - 2014)
-- **Software Engineer** @ Shenzhen Zhibotong Electronics (2012 - 2013)
-
----
-
 *"Stay hungry, stay foolish. Always maintain passion and awe for low-level technologies."*
 *"There is no magic under the hood."*
