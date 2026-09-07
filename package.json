@@ -1,0 +1,17 @@
+{
+  "name": "lintel-profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling to lint and preview the bilingual GitHub profile README.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"*.md\"",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.8.1",
+    "markdownlint-cli2": "^0.18.1",
+    "marked": "^14.1.4",
+    "marked-gfm-heading-id": "^4.1.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lintel Profile README",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "npm run preview"
+    }
+  ]
+}
