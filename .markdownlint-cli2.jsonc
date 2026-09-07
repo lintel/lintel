@@ -1,0 +1,16 @@
+{
+  // Lint rules tuned for a personal, bilingual GitHub profile README.
+  // Structural checks stay on; purely stylistic rules that fight the
+  // author's intentional formatting are relaxed.
+  "config": {
+    "default": true,
+    "MD004": false, // allow mixed unordered-list markers across sections
+    "MD013": false, // long prose/CJK lines are fine for a profile page
+    "MD033": false, // inline HTML is allowed (badges, layout)
+    "MD036": false, // bold tagline line under the title is intentional
+    "MD001": false, // h1 -> h3 jump is an intentional layout choice
+    "MD041": false // leading emoji/badge lines before the first heading
+  },
+  "globs": ["*.md"],
+  "gitignore": true
+}
